@@ -1,0 +1,30 @@
+{
+# 微信公众号：凡事有券 
+# 公众号配置
+# 公众号appId
+"app_id": "wx5272ca8cb3f3e82d",
+# 公众号appSecret
+"app_secret": "e827fc8829146e2112c80f1b8c8ea2f0",
+# 模板消息id
+"template_id": "e2wKPkMgpdebev6gXYLD5tvMIc9SMAY0o4ZTbbLVjJo",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oqwEg5uoQWlx6FNjzjb9gox951h4"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "bcd704edc61348c3a77d63afa19a2743",
+# 天行数据apikey
+"tian_api": "ca46efeba15ce5b69c4eb15355ef223c",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "怀仁市",
+# 生日1
+"birthday1": {"name": "小常", "birthday": "r2002-01-14"},
+# 生日2
+"birthday2": {"name": "大潘", "birthday": "r1998-03-07"},
+# 在一起的日子，格式同上
+"love_date": "2020-08-04",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "我想牵着你的手，去敬各位来宾的酒",
+# 金句英文
+"note_en": "I'd like to take your hand and toast the guests' drinks️ "
+}
